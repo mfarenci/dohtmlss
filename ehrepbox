@@ -1,0 +1,5 @@
+.ehrepcont { width: 380px; background-color: #1d1d1d; padding: 10px; }
+.ehrepnam { text-align: center; color: #ffffff; font-family: Montserrat Alternates; letter-spacing: -2px; word-spacing: 7px; font-size: 16px; font-weight: 700; }
+.ehrepnam a { color: #4a5470; font-family: Montserrat Alternates; letter-spacing: -2px; word-spacing: 7px; font-size: 16px; font-weight: 700; }
+.ehrepfence { padding: 10px; border: 1px #a5a5a5 solid; opacity: 0.8; font-family: monda; font-size: 9px; color: #ffffff; text-align: justify; text-transform: none; line-height: 115%; }
+.ehrepbar { width: 310px; height: 1px; background-color: #a5a5a5; margin-top: 6px; margin-bottom: 10px; }
